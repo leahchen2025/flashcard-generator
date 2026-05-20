@@ -1,0 +1,5 @@
+.DS_Store
+_user_meta.json
+*.pyc
+__pycache__/
+.env
