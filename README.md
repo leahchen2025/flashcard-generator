@@ -4,7 +4,7 @@
   <img src="examples/A_cute_educational_English_fla_2026-05-01T07-24-22.png" width="320" alt="seesaw & slide flashcard" />
 </p>
 
-A **WorkBuddy AI Skill** that generates cute, kawaii-style bilingual (English + Chinese) word flashcards for children's English learning. Just provide two English words and get a beautiful flashcard image in seconds.
+A **Skill** that generates cute, kawaii-style bilingual (English + Chinese) word flashcards for children's English learning. Just provide two English words and get a beautiful flashcard image in seconds.
 
 ## Features
 
