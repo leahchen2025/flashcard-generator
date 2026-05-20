@@ -108,7 +108,7 @@ Text layout must match reference: top half has image left + text right, bottom h
 
 本仓库 `assets/style_reference.png`，或在线查看：
 ```
-https://raw.githubusercontent.com/[YOUR_USERNAME]/flashcard-generator/main/assets/style_reference.png
+https://raw.githubusercontent.com/leahchen2025/flashcard-generator/main/assets/style_reference.png
 ```
 
 ## 注意事项
